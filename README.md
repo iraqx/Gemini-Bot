@@ -10,7 +10,7 @@
 
 - Python 3.8 or higher
 - Telegram Bot Token (obtainable from [BotFather](https://core.telegram.org/bots#botfather))
-- gemini-api key from [aistudio](https://aistudio.google.com/apikey
+- gemini-api key from [aistudio](https://aistudio.google.com/apikey)
 
 ## Setup & Installation
 
