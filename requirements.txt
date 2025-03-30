@@ -1,0 +1,5 @@
+google-genai
+telebot
+requests
+pydantic
+python-dotenv
